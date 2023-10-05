@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648560239278",
+    "project_id": "images-push-message-example",
+    "storage_bucket": "images-push-message-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648560239278:android:69a2a0d160a13c4e83c33f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fetch_images_from_rest_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648560239278-avp7dpl0sgotrct5jgomso9eve6l0c2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtFoJaNkLvtsX8EiftS_ZaGVa_zIy36Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648560239278-avp7dpl0sgotrct5jgomso9eve6l0c2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
